@@ -1,0 +1,665 @@
+{
+  "title": "Kyokuto Chimeratica Interne",
+  "description": "Chimeratica — scans internes (ScanR)",
+  "cover": "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/01.jpg",
+  "chapters": {
+    "14": {
+      "volume": "1",
+      "last_updated": "1730000000",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/14/18.jpg"
+        ]
+      }
+    },
+    "15": {
+      "volume": "1",
+      "last_updated": "1730000001",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/16-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/17-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/15/18-up.jpg"
+        ]
+      }
+    },
+    "16": {
+      "volume": "1",
+      "last_updated": "1730000002",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/16-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/17-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/18-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/16/bonus.jpg"
+        ]
+      }
+    },
+    "17": {
+      "volume": "1",
+      "last_updated": "1730000003",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/16-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/17-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/17/bonus.jpg"
+        ]
+      }
+    },
+    "18": {
+      "volume": "1",
+      "last_updated": "1730000004",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/16-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/18/bonus.jpg"
+        ]
+      }
+    },
+    "19": {
+      "volume": "1",
+      "last_updated": "1730000005",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/17-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/18-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/19/bonus.jpg"
+        ]
+      }
+    },
+    "20": {
+      "volume": "1",
+      "last_updated": "1730000006",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/16-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/17-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/18-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/20/bonus.jpg"
+        ]
+      }
+    },
+    "21": {
+      "volume": "1",
+      "last_updated": "1730000007",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/01-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/02-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/03-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/04-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/05-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/06-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/07-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/08-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/09-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/10-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/11-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/12-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/13-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/14-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/15-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/16-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/17-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/18-up.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21/19-up.jpg"
+        ]
+      }
+    },
+    "21.5": {
+      "volume": "1",
+      "last_updated": "1730000008",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21.5/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21.5/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21.5/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/21.5/04.jpg"
+        ]
+      }
+    },
+    "22": {
+      "volume": "1",
+      "last_updated": "1730000009",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/19.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/20.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/21.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/bonus.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/22/meme.jpg"
+        ]
+      }
+    },
+    "23": {
+      "volume": "1",
+      "last_updated": "1730000010",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/02_1.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/23/bonus.jpg"
+        ]
+      }
+    },
+    "24": {
+      "volume": "1",
+      "last_updated": "1730000011",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/24/bonus.jpg"
+        ]
+      }
+    },
+    "25": {
+      "volume": "1",
+      "last_updated": "1730000012",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/25/bonus.jpg"
+        ]
+      }
+    },
+    "26": {
+      "volume": "1",
+      "last_updated": "1730000013",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/26/18.jpg"
+        ]
+      }
+    },
+    "27": {
+      "volume": "1",
+      "last_updated": "1730000014",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/20.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/21.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/22.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/23.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27/bonus.jpg"
+        ]
+      }
+    },
+    "27.5": {
+      "volume": "1",
+      "last_updated": "1730000015",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/27.5/01.jpg"
+        ]
+      }
+    },
+    "28": {
+      "volume": "1",
+      "last_updated": "1730000016",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/28/bonus.jpg"
+        ]
+      }
+    },
+    "29": {
+      "volume": "1",
+      "last_updated": "1730000017",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/29/17.jpg"
+        ]
+      }
+    },
+    "30": {
+      "volume": "1",
+      "last_updated": "1730000018",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/30/bonus.jpg"
+        ]
+      }
+    },
+    "31": {
+      "volume": "1",
+      "last_updated": "1730000019",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/31/bonus.jpg"
+        ]
+      }
+    },
+    "32": {
+      "volume": "1",
+      "last_updated": "1730000020",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/32/bonus.jpg"
+        ]
+      }
+    },
+    "33": {
+      "volume": "1",
+      "last_updated": "1730000021",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/33/18.jpg"
+        ]
+      }
+    },
+    "34": {
+      "volume": "1",
+      "last_updated": "1730000022",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/19.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/20.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/21.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/34/22.jpg"
+        ]
+      }
+    },
+    "35": {
+      "volume": "1",
+      "last_updated": "1730000023",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/35/18.jpg"
+        ]
+      }
+    },
+    "36": {
+      "volume": "1",
+      "last_updated": "1730000024",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/10.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/11.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/12.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/13.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/14.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/15.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/16.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/17.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/18.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/36/bonus.jpg"
+        ]
+      }
+    },
+    "37": {
+      "volume": "1",
+      "last_updated": "1730000025",
+      "groups": {
+        "ScanR": [
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/01.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/02.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/03.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/04.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/05.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/06.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/07.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/08.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/09.jpg",
+          "https://raw.githubusercontent.com/Dadaam/Chimeratica/main/images/37/10.jpg"
+        ]
+      }
+    }
+  }
+}
